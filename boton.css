@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+
+.boton{
+    padding: 20px;
+    border: 3px solid black;
+    border-radius: 10%;
+    background-color: aqua;
+    transition: background-color 0.4s ease;
+}
+.boton:hover{
+    background-color: black;
+    color: aqua;
+    border-color: aqua;
+}

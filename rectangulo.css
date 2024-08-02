@@ -1,0 +1,16 @@
+.rectangulo{
+    height: 300px;
+    width: 450px;
+    background-color: green;
+    border: solid 3px black;
+    border-radius: 12%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-top: -150px;
+    margin-left: -225px;
+
+}
+h1{
+    text-align: center;
+}
